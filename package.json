@@ -1,5 +1,5 @@
 {
-  "name": "Power100th pg slot",
+  "name": "pg4",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "Power100th allslot wallet",
@@ -7,7 +7,7 @@
     "pgslot",
     "เว็บตรง",
     "pg",
-    "สล็อต"
+    "สล็อต",
   ],
   "repository": "https://github.com/blanktrader1985/pg4.git",
   "license": "MIT",
